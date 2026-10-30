@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="bengalGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d97706"/>
+      <stop offset="100%" stop-color="#b45309"/>
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="22" fill="url(#bengalGrad)"/>
+  <rect x="6" y="6" width="88" height="88" rx="18" fill="none" stroke="url(#goldGrad)" stroke-width="2.5" opacity="0.6"/>
+  <!-- Stylized Architectural Monogram 'BI' -->
+  <path d="M28 28 H46 C54 28, 58 32, 58 38 C58 43, 54 46, 48 48 C56 50, 60 55, 60 62 C60 69, 53 72, 44 72 H28 Z" fill="none" stroke="#fcfbf9" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M28 48 H46" stroke="#fcfbf9" stroke-width="4"/>
+  <line x1="72" y1="28" x2="72" y2="72" stroke="url(#goldGrad)" stroke-width="5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,33 @@
+# BENGAL INTERIOR - Brand Identity & Design System
+
+## 1. Brand Concept & Ethos
+- Brand Name: Bengal Interior (বাংলার অভ্যন্তরীণ)
+- Sector: High-End Residential & Commercial Turnkey Interior Design, Bespoke Modular Living
+- Locality: 22, Chinmoy Chatterjee Sarani, Tollygunge, Kolkata, West Bengal 700033
+- Studio Contact: +91 81001 03232 (Voice) | +91 99033 05943 (WhatsApp & Consultations)
+- Rating: 4.0 Stars on Google Business (42+ Verified Google Reviews) | Over 1,000+ Completed Spaces
+- Core Ethos: Merging thoughtful ergonomic utility with timeless Kolkata architectural elegance. From sleek modular kitchens to ambient living sanctuaries, Bengal Interior creates enduring, high-craft environments on time, guaranteed.
+
+## 2. Color Mood & Harmony (Strict Ban on Brown / Muddy Color Tones)
+- Canvas Base: #fcfbf9 (Pure Porcelain / Pearl White - pristine, luminous, breathable modern aesthetic)
+- Surface Cards: #ffffff (Crisp White elevated cards with subtle multidimensional shadow)
+- Primary Luxury Accent: #d97706 / #b45309 (Rich Warm Amber / Gilded Ochre - luxury woodwork warmth, premium brass accents)
+- Secondary Accent: #2563eb / #1d4ed8 (Architectural Cobalt Blue - precision planning, structural confidence)
+- Ambient Tech Mesh: rgba(217, 119, 6, 0.04) (Subtle architectural blueprint grid pattern)
+- High-Contrast Typography: #0f172a (Midnight Slate - ultra crisp readability)
+- Frosted Glass Floating Navbar: rgba(255, 255, 255, 0.92) with 1px solid rgba(217, 119, 6, 0.18)
+- Official WhatsApp Green: #25D366 (High contrast: white speech bubble + green handset on green buttons)
+
+## 3. Core Portfolio Offerings
+1. Modular Kitchens: German hardware, quartz & granite counters, hydraulic lift-ups, island breakfast bars.
+2. Modular Wardrobes: Space-maximizing sliding & walk-in wardrobes with integrated sensor LED lighting.
+3. Bespoke Handcrafted Furniture: Custom sofa suites, ergonomic dining arrangements, accent credenzas.
+4. Furnishings & Textile Styling: Imported upholstery, blackout drapes, textured rugs, acoustic panelling.
+5. Signature Walls & Murals: Contemporary geometric wall trims, Venetian plaster, designer wallpapers.
+6. Architectural False Ceilings & Lighting: Ambient multi-layered cove lighting, magnetic track lights, statement chandeliers.
+7. Commercial & Corporate Spaces: Modern collaborative workstations, executive conference suites, welcoming reception lounges.
+
+## 4. 16:9 Hero Video Summary
+- Video Asset: assets/videos/hero.mp4
+- Poster Asset: assets/images/hero-poster.jpg
+- Description: 16:9 cinematic landscape capturing luxury modern living and modular kitchen interior in warm ambient architectural lighting, slow smooth cinematic camera pan.
